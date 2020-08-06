@@ -15,7 +15,7 @@ If AIUtil("search").Exist(10) Then
 	AIUtil("search").Click
 End If
 
-wait 2
+wait 3
 AIUtil.FindText("HP ENVY").Click
 AIUtil("button", "ADD TO CART").Click
 AIUtil("shopping_cart").Click
