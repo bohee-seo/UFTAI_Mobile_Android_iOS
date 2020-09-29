@@ -19,7 +19,8 @@ wait 3
 AIUtil.FindText("HP ENVY").Click
 AIUtil("button", "ADD TO CART").Click
 AIUtil("shopping_cart").Click
-AIUtil("hamburger_menu").Click
-AIUtil("profile").Click
-AIUtil.FindTextBlock("YES").Click
+
+'***** you will need to add more AI steps to logout
+'***** Use AI inspector (AI Identification View) to complte your test script
+
  @@ hightlight id_;_197536_;_script infofile_;_ZIP::ssf2.xml_;_
