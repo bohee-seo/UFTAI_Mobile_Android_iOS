@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Script_folder\\UFTAI_Mobile_Android_iOS\\UFTAI_Mobile_Android_iOS\\Tester1\\Res1',namePairs:[]}]};
